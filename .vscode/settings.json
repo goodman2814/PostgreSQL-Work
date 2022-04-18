@@ -1,5 +1,3 @@
 {
-    "files.associations": {
-        ".sql": "postgres"
-    }
+    "files.associations": {}
 }
